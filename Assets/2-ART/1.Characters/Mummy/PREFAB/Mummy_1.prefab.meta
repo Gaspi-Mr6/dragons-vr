@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 044a30645aa19474e83949f57cf35ac8
+timeCreated: 1442341743
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46190
+  packageName: Mummy Warriors
+  packageVersion: 1.0
+  assetPath: Assets/Mummy/Prefabs/Mummy_1.prefab
+  uploadId: 81838

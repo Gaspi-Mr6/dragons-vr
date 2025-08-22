@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+/Assets/Oculus/Avatar2_SampleAssets/SampleAssets/SampleAssets
+/Assets/StylizedDragonPack/Meshes/Dragon.fbx

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bcaf1ebb76c37444b8f3dd9ebfbca91b
+timeCreated: 1442335155
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46190
+  packageName: Mummy Warriors
+  packageVersion: 1.0
+  assetPath: Assets/Mummy/Animators/Weaponless.controller
+  uploadId: 81838

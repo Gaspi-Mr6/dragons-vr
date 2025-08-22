@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1fc564b35a1accc4dbf2ae76767ff262
+timeCreated: 1442494613
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46190
+  packageName: Mummy Warriors
+  packageVersion: 1.0
+  assetPath: Assets/Mummy/Prefabs/Mummy_1_Weaponless.prefab
+  uploadId: 81838

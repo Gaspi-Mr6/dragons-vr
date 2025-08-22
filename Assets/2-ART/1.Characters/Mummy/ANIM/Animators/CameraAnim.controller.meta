@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b03c3e40693ee004592f3e60738e48bc
+timeCreated: 1442403707
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46190
+  packageName: Mummy Warriors
+  packageVersion: 1.0
+  assetPath: Assets/Mummy/Animators/CameraAnim.controller
+  uploadId: 81838

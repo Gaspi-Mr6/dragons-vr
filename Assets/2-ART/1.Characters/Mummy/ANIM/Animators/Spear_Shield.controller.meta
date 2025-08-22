@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 386dbcd0b7059ba40a891bcf3170c604
+timeCreated: 1442501355
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46190
+  packageName: Mummy Warriors
+  packageVersion: 1.0
+  assetPath: Assets/Mummy/Animators/Spear_Shield.controller
+  uploadId: 81838

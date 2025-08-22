@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52f2177215066234896902ae3e1f5542
+timeCreated: 1442343107
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46190
+  packageName: Mummy Warriors
+  packageVersion: 1.0
+  assetPath: Assets/Mummy/Prefabs/Spear.prefab
+  uploadId: 81838
