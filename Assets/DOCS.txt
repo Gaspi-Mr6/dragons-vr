@@ -1,0 +1,8 @@
+PARTICLE PACKS:
+ - UnityTechnologies > ParticlePack
+
+ CHARACTERS:
+ - Mummy
+
+ SOUNDS:
+ - Fantasy_Game_16bit
